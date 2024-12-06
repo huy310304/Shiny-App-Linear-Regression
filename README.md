@@ -1,7 +1,6 @@
 # Shiny-App-Linear-Regression
 
-### Enhanced Linear Regression App with Multiple Sample Datasets
-
+## URL: https://huynguyen1211.shinyapps.io/APMA3150-ExtraCreditProject/
 ---
 
 ## What does the app do?
